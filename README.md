@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Flutter**
 
-- 👨‍💻 All of my projects are available at [https://codewithbenny999.wixsite.com/portfolio](https://codewithbenny999.wixsite.com/portfolio)
+- 👨‍💻 All of my projects are available at [http://bit.ly/3bscLzp](http://bit.ly/3bscLzp)
 
 - 💬 Ask me about **Android App Development as well as the core concepts of java and Kotlin.**
 
