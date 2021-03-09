@@ -1,4 +1,4 @@
-[![MasterHead](https://firebasestorage.googleapis.com/v0/b/shoping-4cb65.appspot.com/o/Ravi.png?alt=media&token=5d93e150-a0da-4391-973f-724e04ce69a9)]
+![MasterHead](https://firebasestorage.googleapis.com/v0/b/shoping-4cb65.appspot.com/o/Ravi.png?alt=media&token=5d93e150-a0da-4391-973f-724e04ce69a9)
 <h1>Hi 👋, I'm Ravi Beniwal</h1>
 <h2>I’m passionate about building great apps.<br>
  
