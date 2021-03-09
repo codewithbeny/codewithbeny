@@ -1,8 +1,6 @@
 <h1>Hi 👋, I'm Ravi Beniwal</h1>
-<h3>I’m an Android Developer, passionate about building great apps.<br>
-  For me app development is not just about coding,<br>
-  it’s also about creating an awesome user experience.</h3>
-
+<h3>I’m passionate about building great apps.<br>
+ 
 - 🔭 I’m currently working on **Personal Business Website**
 
 - 🌱 I’m currently learning **Flutter**
