@@ -1,5 +1,5 @@
 <h1>Hi 👋, I'm Ravi Beniwal</h1>
-<h3>I’m passionate about building great apps.<br>
+<h2>I’m passionate about building great apps.<br>
  
 - 🔭 I’m currently working on **Personal Business Website**
 
