@@ -4,7 +4,7 @@
  
 - 🔭 I’m currently working on **Personal Business Website**
 
-- 🌱 I’m currently learning **Flutter**
+- 🌱 I’m currently learning **IOS**
 
 - 👨‍💻 All of my projects are available at https://codewithbenny.me
 
