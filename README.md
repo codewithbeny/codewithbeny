@@ -1,10 +1,10 @@
-![MasterHead]([https://media-exp1.licdn.com/dms/image/C4D16AQHU03tX_9SaDg/profile-displaybackgroundimage-shrink_350_1400/0/1644568716476?e=1651104000&v=beta&t=dU-JSsmr6ROK3C8mIAMevmbRKHuScZ8xySorTWhtSmI](https://plus.unsplash.com/premium_vector-1734189256756-76505f0f37c6?q=80&w=2456&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D))
+![MasterHead](https://plus.unsplash.com/premium_vector-1734189256756-76505f0f37c6?q=80&w=2456&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D)
 <h1>Hi 👋, I'm Ravi Beniwal</h1>
 <h2>I’m passionate about building great apps.<br>
  
-- 🔭 I’m currently working on **Personal Business Website**
+- 🔭 I’m currently working on **Scoring System**
 
-- 🌱 I’m currently learning **IOS**
+- 🌱 I’m currently learning **iOS**
 
 - 👨‍💻 All of my projects are available at https://codewithbenny.me
 
